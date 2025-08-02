@@ -33,3 +33,10 @@ Currently seeking junior backend roles and continuing to learn through hands-on 
 |--------|-------------|--------|
 | **FriendlyLend** | Web app for lending & borrowing items | [Repo](https://github.com/Boryana-Mihaylova/friendly-lend-app) |
 | **ecoSurvey-svc** | REST API microservice for surveys | [Repo](https://github.com/Boryana-Mihaylova/ecoSurvey-svc) |
+
+
+### 📊 GitHub Stats
+
+![Boryana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boryana-Mihaylova&show_icons=true&theme=default&hide_title=true)
+
+
