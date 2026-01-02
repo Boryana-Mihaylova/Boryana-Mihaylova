@@ -33,4 +33,5 @@ Currently seeking junior backend roles and continuing to learn through hands-on 
 |--------|-------------|--------|
 | **FriendlyLend** | Web app for lending & borrowing items | [Repo](https://github.com/Boryana-Mihaylova/friendly-lend-app) |
 | **ecoSurvey-svc** | REST API microservice for surveys | [Repo](https://github.com/Boryana-Mihaylova/eco-survey-svc) |
+| **WaitZero** | Digital queue & service management app — avoid waiting in line | [Repo](https://github.com/Boryana-Mihaylova/WaitZero) |
 
