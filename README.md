@@ -1,9 +1,10 @@
-### Junior Java Developer
+### Junior Java Backend Developer
 
-Completed Java Web Developer training at SoftUni, focused on backend development with Java, Spring Boot and REST APIs.  
-Built projects covering full-stack MVC, Spring Security, REST microservices and a cloud-deployed application using Docker, PostgreSQL, Azure and CI/CD pipelines.  
+Java backend developer with practical experience building a full-stack Spring Boot application, a REST microservice, and a cloud-deployed system using Docker, PostgreSQL (Azure), and CI/CD with GitHub Actions.
 
-Currently seeking junior backend or Java developer roles.
+Built production-style projects using Spring MVC, Spring Security, REST APIs, and relational databases.
+
+Currently seeking a junior backend or Java developer role.
 
 ### 🛠 Tech Stack
 
