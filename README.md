@@ -1,8 +1,8 @@
 ### Junior Java Backend Developer
 
-Java backend developer with practical experience building a full-stack Spring Boot application, a REST microservice, and a cloud-deployed system using Docker, PostgreSQL (Azure), and CI/CD with GitHub Actions.
+Java backend developer with practical experience building full-stack Spring Boot applications, REST microservices, and event-driven systems using Apache Kafka.
 
-Built production-style projects using Spring MVC, Spring Security, REST APIs, and relational databases.
+Built production-style projects with Spring MVC, Spring Security, REST APIs, relational databases, Docker, cloud deployments (Azure, Render), and CI/CD with GitHub Actions.
 
 Currently seeking a junior backend or Java developer role.
 
@@ -12,6 +12,7 @@ Currently seeking a junior backend or Java developer role.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![Spring Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA_(Hibernate)-59666C?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST_API-003366?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -39,7 +40,9 @@ Currently seeking a junior backend or Java developer role.
 
 | Project | Description | GitHub |
 |--------|-------------|--------|
+| **Kafka User Signup System** | Event-driven microservice system with Spring Boot and Apache Kafka | [Repo](https://github.com/Boryana-Mihaylova/kafka-user-signup-system) |
+| **WaitZero** | Digital queue & service management app — avoid waiting in line | [Repo](https://github.com/Boryana-Mihaylova/WaitZero) |
 | **FriendlyLend** | Web app for lending & borrowing items | [Repo](https://github.com/Boryana-Mihaylova/friendly-lend-app) |
 | **ecoSurvey-svc** | REST microservice for environmental topic voting | [Repo](https://github.com/Boryana-Mihaylova/eco-survey-svc) |
-| **WaitZero** | Digital queue & service management app — avoid waiting in line | [Repo](https://github.com/Boryana-Mihaylova/WaitZero) |
+
 
