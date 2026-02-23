@@ -4,7 +4,7 @@ Java backend developer with practical experience building full-stack Spring Boot
 
 Built production-style projects with Spring MVC, Spring Security, REST APIs, relational databases, Docker, cloud deployments (Azure, Render), and CI/CD with GitHub Actions.
 
-Additionally experienced with cross-stack development using Python (FastAPI) and React, applying similar API design principles and UX-focused thinking.
+Additionally experienced with cross-stack development using Python (FastAPI) and React, applying similar API design principles with attention to usability.
 
 Currently seeking a junior backend or Java developer role.
 
