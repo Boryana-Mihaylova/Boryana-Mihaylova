@@ -48,7 +48,7 @@ Currently seeking a junior backend or Java developer role.
 | Project | Description | GitHub |
 |--------|-------------|--------|
 | **Kafka User Signup System** | Event-driven microservice system with Spring Boot and Apache Kafka | [Repo](https://github.com/Boryana-Mihaylova/kafka-user-signup-system) |
-| **WaitZero** | Digital queue & service management app — avoid waiting in line | [Repo](https://github.com/Boryana-Mihaylova/WaitZero) |
+| **WaitZero** | Digital queue and service management app — avoid waiting in line | [Repo](https://github.com/Boryana-Mihaylova/WaitZero) |
 | **FriendlyLend** | Web app for lending & borrowing items | [Repo](https://github.com/Boryana-Mihaylova/friendly-lend-app) |
 | **ecoSurvey-svc** | REST microservice for environmental topic voting | [Repo](https://github.com/Boryana-Mihaylova/eco-survey-svc) |
 
