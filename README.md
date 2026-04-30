@@ -1,6 +1,6 @@
-### Junior Java Backend Developer
+### Junior Java Developer
 
-Java backend developer with practical experience building full-stack Spring Boot applications, REST microservices, and event-driven systems using Apache Kafka.
+Java developer with practical experience building full-stack Spring Boot applications, REST microservices, and event-driven systems using Apache Kafka.
 
 Built production-style projects with Spring MVC, Spring Security, REST APIs, relational databases, Docker, cloud deployments (Azure, Render), and CI/CD with GitHub Actions.
 
