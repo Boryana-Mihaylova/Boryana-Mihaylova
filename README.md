@@ -56,6 +56,6 @@ Currently seeking opportunities in Backend Development, Cloud Technologies, or A
 
 | Project | Description | GitHub |
 |--------|-------------|--------|
-| **Email AI Assistant** | AI-powered inbox assistant demo with React frontend and FastAPI backend | [Frontend](https://github.com/Boryana-Mihaylova/email-ai-assistant-frontend)<br>[Backend](https://github.com/Boryana-Mihaylova/email-ai-assistant-backend) |
+| **Email AI Assistant** | AI inbox assistant demo with React frontend and FastAPI backend | [Frontend](https://github.com/Boryana-Mihaylova/email-ai-assistant-frontend)<br>[Backend](https://github.com/Boryana-Mihaylova/email-ai-assistant-backend) |
 
 
