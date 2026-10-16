@@ -6,7 +6,6 @@ Built production-style projects with Spring MVC, Spring Security, REST APIs, rel
 
 Additionally experienced with cross-stack development using Python (FastAPI) and React, applying similar API design principles with attention to usability.
 
-Currently seeking opportunities in Backend Development, Cloud Technologies, or Application Support.
 
 ### 🛠 Tech Stack
 
