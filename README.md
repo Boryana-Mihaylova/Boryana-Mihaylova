@@ -1,10 +1,6 @@
-### Junior Java Developer
+**Projects from my software development training and personal work:** 
 
-Java developer with practical experience building full-stack Spring Boot applications, REST microservices, and event-driven systems using Apache Kafka.
-
-Built production-style projects with Spring MVC, Spring Security, REST APIs, relational databases, Docker, cloud deployments (Azure, Render), and CI/CD with GitHub Actions.
-
-Additionally experienced with cross-stack development using Python (FastAPI) and React, applying similar API design principles with attention to usability.
+Web applications, REST APIs, and event-driven systems built with Java, Spring Boot, and Apache Kafka, plus one demo project with Python (FastAPI) and React. Work includes relational databases (MySQL, PostgreSQL), Docker, cloud deployments (Azure, Render), and CI/CD with GitHub Actions.
 
 
 ### 🛠 Tech Stack
